@@ -1,6 +1,8 @@
-# Robson Escotiel S. Rocha
+# Robson Escotiel
 
-www.linkedin.com/in/robson-escotiel
+[![Linkedin Badge](https://img.shields.io/badge/-robsonescotiel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-escotiel/)](https://www.linkedin.com/in/robson-escotiel/)
+[![Gmail Badge](https://img.shields.io/badge/-robsonesr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robsonesr@gmail.com)](mailto:robsonesr@gmail.com)
+
 
 ## Hi there 👋
 
@@ -24,4 +26,10 @@ www.linkedin.com/in/robson-escotiel
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+# Daniel Obara
+
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10564639/daniel-obara)](https://stackoverflow.com/users/10564639/daniel-obara)
+
+[![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)-->
