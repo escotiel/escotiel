@@ -11,7 +11,7 @@ I'm Robson Escotiel: Technology Teacher at Centro Paula Souza, teaching these pr
 I have passion for teach and learning.
 I'm also Full Stack JAVA and Front-end Developer
 
-🔭 I’m currently working on Javascript (Node.js), React and Reactive Native.
+🔭 I’m currently working on Javascript (Node.js), React and React Native.
 
 🌱 I’m currently learning and improving my knowlegments in Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL and MongoDB.
 
