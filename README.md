@@ -7,13 +7,13 @@
 
 ## Nice to meet you!
 
-I'm Robson Escotiel: Technology Teacher at Centro Paula Souza, teaching these programming languages: C#, JAVA, JavaScript, HML5, CSS3.
+I'm Robson Escotiel: Technology Teacher at Centro Paula Souza, teaching these programming languages: JavaScript (Node.JS, TypeScript, React), HML5, CSS3, C#, JAVA.
 I have passion for teach and learning.
 I'm also Full Stack JAVA and Front-end Developer
 
 🔭 I’m currently working on Javascript (Node.js), React and React Native.
 
-🌱 I’m currently learning and improving my knowlegments in Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL and MongoDB.
+🌱 I’m currently learning and improving my knowlegments in React, Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL and MongoDB.
 
 <!-- 
 **escotiel/escotiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
